@@ -2,7 +2,7 @@
 
 https://kyoung224.github.io/Tindog-bootcamp/
 
-- A tinder parody website
+- A responsive tinder parody website
 - HTML/CSS only. Not an acutual functioning website
 
 ## Skills used
