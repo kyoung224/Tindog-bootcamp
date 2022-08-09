@@ -14,6 +14,6 @@ https://kyoung224.github.io/Tindog-bootcamp/
 
 ### Credits
 
-- skelton code / images given by Angle Yu, Appbrewary.co
+- skelton code / images provided by Angle Yu, Appbrewary.co
 - font awesome
 - google fonts
